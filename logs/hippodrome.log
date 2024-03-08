@@ -1,0 +1,148 @@
+2024-03-08 17:18:26.239 INFO [main] [%1] - Start of the race. Number of participants: 7
+2024-03-08 17:18:32.434 INFO [main] [%1] - Start of the race. Number of participants: 7
+2024-03-08 17:21:44.497 INFO [main] [%1] - Start of the race. Number of participants: 7
+2024-03-08 17:22:04.787 INFO [main] [%1] - End of the race. Winner is Cherry
+2024-03-08 17:26:34.636 INFO [main] [%1] - Name is null
+2024-03-08 17:26:34.643 INFO [main] [%1] - Speed is negative
+2024-03-08 17:26:34.651 INFO [main] [%1] - Distance is negative
+2024-03-08 17:26:34.695 INFO [main] [%1] - Name is blank
+2024-03-08 17:26:34.700 INFO [main] [%1] - Name is blank
+2024-03-08 17:26:34.702 INFO [main] [%1] - Name is blank
+2024-03-08 17:26:34.703 INFO [main] [%1] - Name is blank
+2024-03-08 17:26:34.705 INFO [main] [%1] - Name is blank
+2024-03-08 17:26:34.708 INFO [main] [%1] - Name is blank
+2024-03-08 17:26:34.710 INFO [main] [%1] - Name is blank
+2024-03-08 17:26:34.748 INFO [main] [%1] - Start of the race. Number of participants: 7
+2024-03-08 17:32:22.235 INFO [main] [%1] - Horse object was created: Name [Bucephalus]; Speed [2.4], distance [0.0]
+2024-03-08 17:32:22.236 INFO [main] [%1] - Horse object was created: Name [Ace of Spades]; Speed [2.5], distance [0.0]
+2024-03-08 17:32:22.236 INFO [main] [%1] - Horse object was created: Name [Zephyr]; Speed [2.6], distance [0.0]
+2024-03-08 17:32:22.237 INFO [main] [%1] - Horse object was created: Name [Blaze]; Speed [2.7], distance [0.0]
+2024-03-08 17:32:22.237 INFO [main] [%1] - Horse object was created: Name [Lobster]; Speed [2.8], distance [0.0]
+2024-03-08 17:32:22.237 INFO [main] [%1] - Horse object was created: Name [Pegasus]; Speed [2.9], distance [0.0]
+2024-03-08 17:32:22.237 INFO [main] [%1] - Horse object was created: Name [Cherry]; Speed [3.0], distance [0.0]
+2024-03-08 17:32:22.237 INFO [main] [%1] - Start of the race. Number of participants: 7
+2024-03-08 17:32:42.498 INFO [main] [%1] - End of the race. Winner is Cherry
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [horse1]; Speed [1.0], distance [10.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [horse2]; Speed [2.0], distance [20.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [horse3]; Speed [3.0], distance [30.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse0]; Speed [0.0], distance [0.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse1]; Speed [1.0], distance [1.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse2]; Speed [2.0], distance [2.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse3]; Speed [3.0], distance [3.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse4]; Speed [4.0], distance [4.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse5]; Speed [5.0], distance [5.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse6]; Speed [6.0], distance [6.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse7]; Speed [7.0], distance [7.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse8]; Speed [8.0], distance [8.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse9]; Speed [9.0], distance [9.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse10]; Speed [10.0], distance [10.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse11]; Speed [11.0], distance [11.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse12]; Speed [12.0], distance [12.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse13]; Speed [13.0], distance [13.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse14]; Speed [14.0], distance [14.0]
+2024-03-08 17:49:45.099 INFO [main] [%1] - Horse object was created: Name [Horse15]; Speed [15.0], distance [15.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse16]; Speed [16.0], distance [16.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse17]; Speed [17.0], distance [17.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse18]; Speed [18.0], distance [18.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse19]; Speed [19.0], distance [19.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse20]; Speed [20.0], distance [20.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse21]; Speed [21.0], distance [21.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse22]; Speed [22.0], distance [22.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse23]; Speed [23.0], distance [23.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse24]; Speed [24.0], distance [24.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse25]; Speed [25.0], distance [25.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse26]; Speed [26.0], distance [26.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse27]; Speed [27.0], distance [27.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse28]; Speed [28.0], distance [28.0]
+2024-03-08 17:49:45.115 INFO [main] [%1] - Horse object was created: Name [Horse29]; Speed [29.0], distance [29.0]
+2024-03-08 17:49:45.810 INFO [main] [%1] - Horse object was created: Name [TestName]; Speed [5.0], distance [3.0]
+2024-03-08 17:49:45.813 INFO [main] [%1] - Horse object was created: Name [TestName]; Speed [5.0], distance [2.0]
+2024-03-08 17:49:45.816 INFO [main] [%1] - Name is null
+2024-03-08 17:49:45.821 INFO [main] [%1] - Speed is negative
+2024-03-08 17:49:45.827 INFO [main] [%1] - Horse object was created: Name [TestName]; Speed [1.0], distance [2.0]
+2024-03-08 17:49:45.833 INFO [main] [%1] - Distance is negative
+2024-03-08 17:49:45.834 INFO [main] [%1] - Horse object was created: Name [TestName]; Speed [5.0], distance [2.0]
+2024-03-08 17:49:45.877 INFO [main] [%1] - Name is blank
+2024-03-08 17:49:45.881 INFO [main] [%1] - Name is blank
+2024-03-08 17:49:45.884 INFO [main] [%1] - Name is blank
+2024-03-08 17:49:45.886 INFO [main] [%1] - Name is blank
+2024-03-08 17:49:45.888 INFO [main] [%1] - Name is blank
+2024-03-08 17:49:45.889 INFO [main] [%1] - Name is blank
+2024-03-08 17:49:45.893 INFO [main] [%1] - Name is blank
+2024-03-08 17:49:45.898 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 17:49:45.905 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 17:49:45.908 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 17:49:45.910 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 17:49:45.913 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 17:49:45.914 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 17:49:45.927 INFO [main] [%1] - Horse object was created: Name [Bucephalus]; Speed [2.4], distance [0.0]
+2024-03-08 17:49:45.927 INFO [main] [%1] - Horse object was created: Name [Ace of Spades]; Speed [2.5], distance [0.0]
+2024-03-08 17:49:45.927 INFO [main] [%1] - Horse object was created: Name [Zephyr]; Speed [2.6], distance [0.0]
+2024-03-08 17:49:45.927 INFO [main] [%1] - Horse object was created: Name [Blaze]; Speed [2.7], distance [0.0]
+2024-03-08 17:49:45.927 INFO [main] [%1] - Horse object was created: Name [Lobster]; Speed [2.8], distance [0.0]
+2024-03-08 17:49:45.927 INFO [main] [%1] - Horse object was created: Name [Pegasus]; Speed [2.9], distance [0.0]
+2024-03-08 17:49:45.927 INFO [main] [%1] - Horse object was created: Name [Cherry]; Speed [3.0], distance [0.0]
+2024-03-08 17:49:45.927 INFO [main] [%1] - Start of the race. Number of participants: 7
+2024-03-08 17:50:06.204 INFO [main] [%1] - End of the race. Winner is Cherry
+2024-03-08 19:17:25.455 INFO [main] [%1] - Horse object was created: Name [horse1]; Speed [1.0], distance [10.0]
+2024-03-08 19:17:25.457 INFO [main] [%1] - Horse object was created: Name [horse2]; Speed [2.0], distance [20.0]
+2024-03-08 19:17:25.457 INFO [main] [%1] - Horse object was created: Name [horse3]; Speed [3.0], distance [30.0]
+2024-03-08 19:17:25.467 INFO [main] [%1] - Horse object was created: Name [Horse0]; Speed [0.0], distance [0.0]
+2024-03-08 19:17:25.467 INFO [main] [%1] - Horse object was created: Name [Horse1]; Speed [1.0], distance [1.0]
+2024-03-08 19:17:25.467 INFO [main] [%1] - Horse object was created: Name [Horse2]; Speed [2.0], distance [2.0]
+2024-03-08 19:17:25.467 INFO [main] [%1] - Horse object was created: Name [Horse3]; Speed [3.0], distance [3.0]
+2024-03-08 19:17:25.467 INFO [main] [%1] - Horse object was created: Name [Horse4]; Speed [4.0], distance [4.0]
+2024-03-08 19:17:25.467 INFO [main] [%1] - Horse object was created: Name [Horse5]; Speed [5.0], distance [5.0]
+2024-03-08 19:17:25.467 INFO [main] [%1] - Horse object was created: Name [Horse6]; Speed [6.0], distance [6.0]
+2024-03-08 19:17:25.467 INFO [main] [%1] - Horse object was created: Name [Horse7]; Speed [7.0], distance [7.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse8]; Speed [8.0], distance [8.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse9]; Speed [9.0], distance [9.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse10]; Speed [10.0], distance [10.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse11]; Speed [11.0], distance [11.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse12]; Speed [12.0], distance [12.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse13]; Speed [13.0], distance [13.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse14]; Speed [14.0], distance [14.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse15]; Speed [15.0], distance [15.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse16]; Speed [16.0], distance [16.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse17]; Speed [17.0], distance [17.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse18]; Speed [18.0], distance [18.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse19]; Speed [19.0], distance [19.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse20]; Speed [20.0], distance [20.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse21]; Speed [21.0], distance [21.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse22]; Speed [22.0], distance [22.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse23]; Speed [23.0], distance [23.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse24]; Speed [24.0], distance [24.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse25]; Speed [25.0], distance [25.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse26]; Speed [26.0], distance [26.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse27]; Speed [27.0], distance [27.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse28]; Speed [28.0], distance [28.0]
+2024-03-08 19:17:25.468 INFO [main] [%1] - Horse object was created: Name [Horse29]; Speed [29.0], distance [29.0]
+2024-03-08 19:17:26.168 INFO [main] [%1] - Horse object was created: Name [TestName]; Speed [5.0], distance [3.0]
+2024-03-08 19:17:26.171 INFO [main] [%1] - Horse object was created: Name [TestName]; Speed [5.0], distance [2.0]
+2024-03-08 19:17:26.174 INFO [main] [%1] - Name is null
+2024-03-08 19:17:26.179 INFO [main] [%1] - Speed is negative
+2024-03-08 19:17:26.185 INFO [main] [%1] - Horse object was created: Name [TestName]; Speed [1.0], distance [2.0]
+2024-03-08 19:17:26.193 INFO [main] [%1] - Distance is negative
+2024-03-08 19:17:26.196 INFO [main] [%1] - Horse object was created: Name [TestName]; Speed [5.0], distance [2.0]
+2024-03-08 19:17:26.244 INFO [main] [%1] - Name is blank
+2024-03-08 19:17:26.249 INFO [main] [%1] - Name is blank
+2024-03-08 19:17:26.250 INFO [main] [%1] - Name is blank
+2024-03-08 19:17:26.252 INFO [main] [%1] - Name is blank
+2024-03-08 19:17:26.253 INFO [main] [%1] - Name is blank
+2024-03-08 19:17:26.255 INFO [main] [%1] - Name is blank
+2024-03-08 19:17:26.257 INFO [main] [%1] - Name is blank
+2024-03-08 19:17:26.261 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 19:17:26.267 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 19:17:26.270 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 19:17:26.271 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 19:17:26.272 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 19:17:26.274 INFO [main] [%1] - Horse object was created: Name [testName]; Speed [2.5], distance [250.0]
+2024-03-08 19:17:26.286 INFO [main] [%1] - Horse object was created: Name [Bucephalus]; Speed [2.4], distance [0.0]
+2024-03-08 19:17:26.287 INFO [main] [%1] - Horse object was created: Name [Ace of Spades]; Speed [2.5], distance [0.0]
+2024-03-08 19:17:26.287 INFO [main] [%1] - Horse object was created: Name [Zephyr]; Speed [2.6], distance [0.0]
+2024-03-08 19:17:26.287 INFO [main] [%1] - Horse object was created: Name [Blaze]; Speed [2.7], distance [0.0]
+2024-03-08 19:17:26.287 INFO [main] [%1] - Horse object was created: Name [Lobster]; Speed [2.8], distance [0.0]
+2024-03-08 19:17:26.287 INFO [main] [%1] - Horse object was created: Name [Pegasus]; Speed [2.9], distance [0.0]
+2024-03-08 19:17:26.287 INFO [main] [%1] - Horse object was created: Name [Cherry]; Speed [3.0], distance [0.0]
+2024-03-08 19:17:26.287 INFO [main] [%1] - Start of the race. Number of participants: 7
+2024-03-08 19:17:46.606 INFO [main] [%1] - End of the race. Winner is Pegasus
